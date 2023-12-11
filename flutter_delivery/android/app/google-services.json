@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "914970938152",
+    "project_id": "delivery-app-udemy-10bf1",
+    "storage_bucket": "delivery-app-udemy-10bf1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914970938152:android:f07cee71c5f38167451e1d",
+        "android_client_info": {
+          "package_name": "com.optic.flutter_delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "914970938152-a3r2os0qqi8medgmvo888hbue5vf8ji3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.optic.flutter_delivery",
+            "certificate_hash": "fb1b6233e60c77ca689e5131d65d7d17ce814969"
+          }
+        },
+        {
+          "client_id": "914970938152-ka1okc0rvgdho51qf1ulbik8qmerr5d4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZwdYMJDI-OwFVtPUOXlklX6XK1WqWDrw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "914970938152-ka1okc0rvgdho51qf1ulbik8qmerr5d4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
